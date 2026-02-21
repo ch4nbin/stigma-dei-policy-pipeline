@@ -1,0 +1,24 @@
+# Scraped data (optional: remove these lines if you want to commit sample data)
+chronicle_dei_data.csv
+chronicle_dei_data.json
+chronicle_dei_data.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Credentials / env (never commit)
+.env
+.env.local
+*.pem
